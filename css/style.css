@@ -481,14 +481,14 @@ h6, .h6 {
 
 
 .display-5 {
-  font-size: 1.3rem;
+  font-size: 1.1rem;
   font-weight: 500;
   line-height: 1.2;
 }
 
 @media (max-width: 1200px) {
   .display-5 {
-    font-size: calc(1.475rem + 2.7vw) ;
+    font-size: calc(1.1rem + 2.7vw) ;
   }
 }
 
