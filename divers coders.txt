@@ -1,0 +1,285 @@
+<!-- Navbar Start toujours visible-->
+<div class="container-fluid bg-white">
+    <nav class="navbar navbar-expand-lg bg-white navbar-light py-3 py-lg-0 fixed-top">
+        <div class="container">
+            <a href="index.html" class="navbar-brand text-secondary">
+                <h1 class="display-4 text-uppercase">informatiphone 54s</h1>
+            </a>
+            <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarCollapse">
+                <div class="navbar-nav ml-auto py-0 pr-3 border-right">
+                    <a href="index.html" class="nav-item nav-link active">Acceuil</a>
+                    <a href="about.html" class="nav-item nav-link">A propos</a>
+                    <a href="service.html" class="nav-item nav-link">Services</a>
+                    <a href="price.html" class="nav-item nav-link">Tarifs</a>
+                    <!--    <a href="project.html" class="nav-item nav-link">Projets</a>    -->
+                     <!--<div class="nav-item dropdown">
+                        <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Autres</a>
+                        <div class="dropdown-menu rounded-0 m-0">
+                            <a href="team.html" class="dropdown-item">Blog</a>
+                            <a href="testimonial.html" class="dropdown-item">Temoignages</a>
+                        </div>
+                    </div>   -->
+                    <a href="contact.html" class="nav-item nav-link">Contact</a>
+                </div>
+                <div class="d-none d-lg-flex align-items-center pl-4">
+                    <i class="fa fa-2x fa-mobile-alt text-primary mr-3"></i>
+                    <div>
+                        <h6 class="text-body text-uppercase mb-1"><small>08h00 - 19h00</small></h6>
+                        <h6 class="m-0">07 78 05 26 22</h6>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </nav>
+</div>
+<!-- Navbar End toujours visible-->
+-----------------------------------------------------------------------------------------------------------------------
+dans index
+
+
+<!-- h1 et p au lieu de h5-->
+    <div class="container-fluid py-5">
+        <div class="container py-5">
+            <div class="row align-items-center">
+                <div class="col-lg-6 order-lg-2">
+                    <img class="img-fluid mb-4 mb-lg-0" src="img/about.jpg" alt="">
+                </div>
+                <div class="col-lg-6 order-lg-1">
+                    <h1 class="display-4 text-uppercase mb-4">Informatique à domicile ou en atelier</h1>
+                    <p class="mb-4 text-uppercase text-primary mb-3">Réparation d'ordinateurs à domicile et intervention sur Nancy et ses environs.
+                        Controle à distance pour nos clients habitants plus loin.</p>
+                    <p class="mb-4">Bienvenu dans notre atelier!. Sinon, que vous soyez sur Nancy centre ou les communes avoisinantes, notre téchnicien se deplacera vers vous pour résoudre la panne de votre équipement informatique. Pc portable ou fixe, Imprimente, box internet, installation, configuration,...etc. Quelque soit le soucis, notre téchnicien saura vous proposer la meilleure solution.</p>
+                    <!-- <a href="" class="btn btn-primary text-uppercase py-3 px-5">Read More</a>  End -->
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- About End -->
+    
+
+
+
+
+<!-- en php -->
+    <div class="container-fluid py-5">
+        <div class="container py-5">
+            <div class="row align-items-center">
+                <div class="col-lg-6">
+                    <img class="img-fluid mb-4 mb-lg-0" src="img/about.jpg" alt="">
+                </div>
+                <div class="col-lg-6">
+                    <h1 class="display-4 text-uppercase mb-4">Informatique à domicile ou en atelier</h1>
+                    <p class="text-uppercase text-primary mb-3">
+                        <strong>RÉPARATION D'ORDINATEURS À DOMICILE ET INTERVENTION SUR NANCY ET SES ENVIRONS. CONTROLE À DISTANCE POUR NOS CLIENTS HABITANTS PLUS LOIN.</strong>
+                    </p>
+                    <p class="mb-4">Bienvenu dans notre atelier!. Sinon, que vous soyez sur Nancy centre ou les communes avoisinantes, notre téchnicien se deplacera vers vous pour résoudre la panne de votre équipement informatique. Pc portable ou fixe, Imprimente, box internet, installation, configuration,...etc. Quelque soit le soucis, notre téchnicien saura vous proposer la meilleure solution.</p>
+                    <!-- <a href="" class="btn btn-primary text-uppercase py-3 px-5">Read More</a>  End -->
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- About End -->
+    
+-------------------------------------------------------------------------------------------
+
+<!-- Pricing Plan Start -->
+    <div class="container-fluid py-5">
+        <div class="container pt-5 pb-3">
+            <h2 class="display-4 text-uppercase text-center mb-5">Réparation iphone, nintendo, playstation</h2>
+            <div class="row">
+                <div class="col-lg-4 mb-2">
+                    <div class="bg-light rounded text-center pt-5 mt-lg-5 mb-4">
+                        <h2 class="text-uppercase">Smartphones</h2>
+                        <h6 class="text-uppercase text-body mb-5">TOUTES MARQUES</h6>
+                        <div class="text-center bg-dark rounded-circle p-4 mb-2">
+                            <h1 class="display-4 text-white mb-0">
+                                <small class="align-top"
+                                    style="font-size: 22px; line-height: 45px;">sur </small>Devis <small
+                                    class="align-bottom" style="font-size: 16px; line-height: 40px;">gratuit
+                                    </small>
+                            </h1>
+                        </div>
+                        <div class="text-center py-4">
+                            <p>Réparation écran lcd </p>
+                            <p>Réparation connecteur de charge </p>
+                            <p>Changement batterie</p>
+                            <p>Réparation vitre arrière</p>
+                            <p>Désoydation</p>
+                            <p>Réparation camera</p>
+                            <p>Autonomie</p>
+                            <p>Réparation carte mère</p>
+                            <p>Réseau faible</p>
+                            <p>Panne wifi</p>
+                            <p>Autres...</p>
+                            <a href="contact.html" class="btn btn-dark text-uppercase py-2 px-4 my-3">Demandez un devis</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 mb-2">
+                    <div class="bg-dark rounded text-center pt-5 mb-4">
+                        <h2 class="text-uppercase text-white">Playstation</h2>
+                        <h6 class="text-uppercase text-secondary mb-5">TOUTES PANNES</h6>
+                        <div class="text-center bg-primary rounded-circle p-4 mb-2">
+                            <h1 class="display-4 mb-0">
+                                <small class="align-top"
+                                    style="font-size: 22px; line-height: 45px;">A partir de </small>30<small
+                                    class="align-bottom" style="font-size: 16px; line-height: 40px;">
+                                    €</small>
+                            </h1>
+                        </div>
+                        <div class="text-center text-secondary py-4">
+                            <p>Connecteur hdmi</p>
+                            <p>Allimentation HS</p>
+                            <p>Erreurs mise à jour</p>
+                            <p>Néttoyage</p>
+                            <p>Surchauffe </p>
+                            <p>Disque dur HS</p>
+                            <p>Lecteur DVD</p>
+                            <p>Bloc Wifi</p>
+                            <p>Plasturgie</p>
+                            <p>customisation</p>
+                            <p>Bruits</p>
+                            <p>Autres...</p>                                                    
+                            <a href="contact.html" class="btn btn-primary text-uppercase py-2 px-4 my-3">Contactez nous</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 mb-2">
+                    <div class="bg-light rounded text-center pt-5 mt-lg-5 mb-4">
+                        <h2 class=" text-uppercase">Nintendo switch</h2>
+                        <h6 class="text-uppercase text-body mb-5">TOUTES PANNES</h6>
+                        <div class="text-center bg-dark rounded-circle p-4 mb-2">
+                            <h4 class="display-4 text-white mb-0">
+                                <small class="align-top"
+                                    style="font-size: 22px; line-height: 45px;">A partir de</small>25<small
+                                    class="align-bottom" style="font-size: 16px; line-height: 40px;">€
+                                    </small>
+                            </h4>
+                        </div>
+                        <div class="text-center py-4">
+                            <p>Connecteur USB C</p>
+                            <p>Ecran tactile</p>
+                            <p>Batterie</p>
+                            <p>Ecran dalle LCD</p>
+                            <p>Ecran bleu</p>
+                            <p>Joycon HS</p>
+                            <p>Wifi hs</p>
+                            <p>Autonomie</p>
+                            <p>carte mère</p>
+                            <p>Néttoyage</p>
+                            <p>Ventilateur HS</p>
+                            <a href="contact.html" class="btn btn-dark text-uppercase py-2 px-4 my-3">Contactez nous</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Pricing Plan End -->
+---------------------------------------------------------------------------------------
+
+<!-- Navbar Start pas fixe-->
+    <div class="container-fluid bg-white position-relative">
+        <nav class="navbar navbar-expand-lg bg-white navbar-light py-3 py-lg-0">
+            <a href="index.html" class="navbar-brand text-secondary">
+                <h1 class="display-4 text-uppercase">repair-pc-mac.fr</h1>
+            </a>
+            <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarCollapse">
+                <div class="navbar-nav ml-auto py-0 pr-3 border-right">
+                    <a href="index.html" class="nav-item nav-link active">Acceuil</a>
+               
+                    <a href="service.html" class="nav-item nav-link">Services</a>
+                    <a href="price.html" class="nav-item nav-link">Tarifs</a>
+                    <!--    <a href="project.html" class="nav-item nav-link">Projets</a>    -->
+                     <!--<div class="nav-item dropdown">
+                        <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Autres</a>
+                        <div class="dropdown-menu rounded-0 m-0">
+                            <a href="team.html" class="dropdown-item">Blog</a>
+                            <a href="testimonial.html" class="dropdown-item">Temoignages</a>
+                        </div>
+                    </div>   -->
+                    <a href="about.html" class="nav-item nav-link">A propos</a>
+                    <a href="contact.html" class="nav-item nav-link">Contact</a>
+                </div>
+                <div class="d-none d-lg-flex align-items-center pl-4">
+                    <i class="fa fa-2x fa-mobile-alt text-primary mr-3"></i>
+                    <div>
+                        <h6 class="text-body text-uppercase mb-1"><small>08h00 - 19h00</small></h6>
+                        <h6 class="m-0">07 78 05 26 22</h6>
+                    </div>
+                </div>
+            </div>
+        </nav>
+    </div>
+    <!-- Navbar End -->
+--------------------------------------------------------------------------------------
+
+<!-- alonvere debut -->
+    <div class="container-fluid pt-5">
+        <div class="container pt-5">
+            <div class="row align-items-center">
+                <div class="col-lg-6 order-lg-2">
+                    <img class="img-fluid mb-4 mb-lg-0" src="img/quisommenous.jpg" alt="">
+                </div>
+                <div class="col-lg-6 order-lg-1">
+                    <h1 class="display-4 text-uppercase mb-4">Une histoire...Un métier..Une passion</h1>
+                    <h5 class="text-uppercase text-primary mb-3">Depuis l'air du pentium II et du Motorola Startac, puis le pentium 4 et Nokia 3310. 
+                        Aujourd'hui nous réparons les ordinateurs et les smartphones 
+                        dotés de la technologie 5G.</h5>
+                    <p class="mb-4">L'histoire commance a prendre forme en 1999. Encore étudiant à cette époque, les labos de la fac était nos lieux 
+                        préférés. Nous n'avons pas eu beaucoup de matériaux et d'outils à cette époque là mais l'ambition de connaitre et de découvrir à 
+                        elle seule suffisait pour nous motivés. Un clavier, un ordinateur partagé pour 6 à 10 personnes nous progetait dans le monde du futur et de la création.... </p>
+                    
+                    <!--     <a href="" class="btn btn-primary text-uppercase py-3 px-5">Read More</a>     End -->
+
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- alonvere fin-->
+---------------------------------------------------------------------------------------
+original
+
+<div class="col-lg-3 mb-2">
+                    <div class="service-item rounded p-5 mb-4">
+
+                        <!-- original <i class="fa fa-3x fa-laptop-code text-primary mb-4"></i>   -->
+                        <!--l icone est entre fa fa-3x ....et.... text primary mb4-->
+                       
+                        <i class="fa fa-3x fa-laptop-code text-primary mb-4"></i>
+                        <h4 class="text-uppercase mb-4">Pannes <span class="d-block text-body">ordinateur</span></h4>
+                        <p class="m-0">Pc potable, <br> tour bureautique,<br> tour gamer,<br> Macbook Air,<br> Mac Pro, Imac, <br>serveur, <br>Pc all in one.</p>
+                    </div>
+                </div>
+
+
+
+
+---------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
