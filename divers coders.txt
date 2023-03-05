@@ -263,6 +263,100 @@ original
 
 ---------------------------------------------------------------------------------------------------
 
+<div class="container-fluid py-5">
+        <div class="container pt-5 pb-3">
+            <h2 class="display-4 text-uppercase text-center mb-5">Tarifs réparation playstation Ps4 Ps5</h2>
+    
+    
+    
+            <div class="table-responsive">
+                <table class="table table-striped table-bordered">
+                Liste non exhaustive:
+           
+                <thead>
+                <tr>
+                <th>Préstations</th>
+                <th>Tarifs</th>
+                <th>Informations</th>
+                </tr>
+                </thead>
+                <tbody>
+                
+                <tr>
+                <td>Diagnostic visuel rapide sur place ou par téléphone. </td>
+                <td>GRATUIT </td>
+                <td>Constatations à l'oeil nu. <br>Pistes possibles selons les informations reçu par le client. </td>
+                </tr>
+               
+                <tr>
+                <td>Réparation en atelier. </td>
+                <td>A partir de 20€, sur devis préalable. </td>
+                <td>Diagnostic et devis. <br>Libre au client d'accepter ou refuser la réparation. <br>Si refus de réparation, le diagnostic et payable 20€. <br> Réparation accéptée = Diagnostic GRATUIT. </td>
+                </tr>        
+                <tr>
+                <td>Remplacement connecteur hdmi. </td>
+                <td>A  partir de 60€. </td>
+                <td>Devis préalable. <br>Libre au client d'accepter ou refuser la réparation. <br>Si refus de réparation, le diagnostic et payable 
+                    20€. <br> Réparation accéptée = Diagnostic GRATUIT.</td>
+                </tr>
+                <tr>
+                <td>Réparation controlleur hdmi <br> panne écran noir </td>
+                <td>A partir de 60€. </td>
+                <td>Devis préalable. <br>Remplacement du controlleur hdmi. <br>Libre au client d'accepter ou refuser la réparation.<br> Si refus de réparation, le 
+                    diagnostic et payable 20€.<br> Réparation accéptée = Diagnostic GRATUIT. </td>
+                </tr>
+        
+        
+        
+                <tr>
+                    <td>playstation ne s'allume pas</td>
+                    <td>Sur devis </td>
+                    <td>Aprés diagnostic. <br>Libre au client d'accepter ou refuser la réparation.<br> Si refus de réparation, le 
+                        diagnostic et payable 25€.<br> Réparation accéptée = Diagnostic GRATUIT.</td>
+                    </tr>
+        
+        
+                    <tr>
+                        <td>Dépannage à domicile.</td>
+                        <td>Sur devis </td>
+                        <td>Frais de déplacement GRATUIT sur Nancy. <br>Selon la distance et le cout final de l'intervention en d'hors de Nancy. </td>
+                        </tr>
+        
+        
+                        <tr>
+                            <td>Attestation d'irréparabilité pour les assurances.</td>
+                            <td>30€</td>
+                            <td>Constatation OBLIGATOIRE et réelle de la panne et de son irréparabilité à domicile ou en atelier. <br>Si déplacement => + Frais. </td>
+                            </tr>
+        
+        
+        
+        
+                            <tr>
+                                <td>Nettoyage playstation, surchauffe</td>
+                                <td>55€ en atelier</td>
+                                <td>Pâte thermique haute qualité speciale ps4 et ps5.</td>
+                                </tr>
+        
+        
+        
+                                <tr>
+                                    <td>Conseils</td>
+                                    <td>GRATUIT</td>
+                                    <td>....
+                                    </tr>
+        
+                        
+        
+                </tbody>
+                </table>
+                </div>
+                NB:<br> Ne pas confondre diagnostic et tentative de réparation. <br>Tous nos tarifs sont comuniqués sous reserve de l'éxactitude de la panne initialement comuniquée ou diagnostiquée.
+        
+        
+            </div>
+        </div>
+
 
 
 
